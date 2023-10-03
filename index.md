@@ -3,6 +3,14 @@ title: Home
 layout: home
 ---
 
+Water start machine
+
+Masina koja sluzi za poravnavanje plovila u trkama na vodi: kajak, kanu, SUP, veslanje. Sastoji se od vitla koji zateze sajlu tako da se ona postavi tik iznad vode tako da camci mogu da pridju i mehanizma koji brzo spusta tu sajlu u vodu kako bi camci mogli neometano da startuju. On radi automatski
+
+Sve to upravlja elektronski sklop koji prima glasovne komande tako da nije potrebna ljudska ruka da ponovo namesti start. Postojece mashine koje se koriste na svetskim prvenstvima su vrlo skupe i zahtevaju komplikovanu montazu.
+Ova masina je portabilna, lako se stavi na neki camac ili dasku i poveze sa postojecim bovama ili drvecima na obali.
+Sadrzi glasovno navodjenje: "Alexa tell machine to start in 10 seconds".
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
